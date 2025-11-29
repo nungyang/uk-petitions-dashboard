@@ -15,7 +15,3 @@ format:
 #| include: false
 library(tidyverse)
 ```
-
-```{r}
-head(starwars)
-```
