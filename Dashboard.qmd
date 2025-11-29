@@ -1,0 +1,21 @@
+---
+title: "UK Petitions Dashboard"
+format:
+  dashboard:
+    logo: 'images/uk petitions logo.png'
+    orientation: columns
+---
+
+## Column (width = "35%")
+
+### Row (height = "10%")
+
+```{r, load packages}
+#| echo: false
+#| include: false
+library(tidyverse)
+```
+
+```{r}
+head(starwars)
+```
