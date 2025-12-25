@@ -1,1 +1,1 @@
-Sitemap: https://nungyang.github.io/uk-petitions-dashboard/sitemap.xml
+Sitemap: https://nungyang.github.io/uk-petitions-old/sitemap.xml
